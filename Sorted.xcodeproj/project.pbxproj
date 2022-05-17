@@ -55,8 +55,8 @@
 		0CA2CFAE2833181C00B65F2B /* Sorted */ = {
 			isa = PBXGroup;
 			children = (
-				0CA2CFAF2833181C00B65F2B /* SortedApp.swift */,
 				0CA2CFB12833181C00B65F2B /* ContentView.swift */,
+				0CA2CFAF2833181C00B65F2B /* SortedApp.swift */,
 				0CA2CFB32833181E00B65F2B /* Assets.xcassets */,
 				0CA2CFB82833181E00B65F2B /* Persistence.swift */,
 				0CA2CFBA2833181E00B65F2B /* Sorted.xcdatamodeld */,
